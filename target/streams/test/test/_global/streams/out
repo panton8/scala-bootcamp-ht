@@ -1,0 +1,43 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HT_1.GCDTest, org.scalatest.tools.Framework$$anon$1@b165f07, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HT_1.LCMTest, org.scalatest.tools.Framework$$anon$1@b165f07, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HT_2.ControlStructures1Test, org.scalatest.tools.Framework$$anon$1@b165f07, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCDTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGCD[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- gcd(54, 24)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLCMTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mLCM[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lcm(4, 6)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mControlStructures1Test:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misAdult_if[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should return boolean for valid input[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input 20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input 13[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should return error for invalid input[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input 99999[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input -20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misAdult_match[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should return boolean for valid input[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input 20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input 13[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should return error for invalid input[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input 99999[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input -20[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misValidTriangle[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should determine if triangle is valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input (2, 2, 3)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input (2, 2, 0)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input (2, 2, 4)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misValidCandidate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should determine that candidate is valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input ("Wakanda", 10, 10, true, 100)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should determine that candidate is not valid[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - for input ("US", 5, 1, false, 0)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 791 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 15[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 3, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 15, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HT_2.ControlStructures1Test[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HT_1.LCMTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HT_1.GCDTest[0m
