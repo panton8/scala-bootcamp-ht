@@ -1,4 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
+[debug] not up to date. inChanged = false, force = false
 [debug] Updating ProjectRef(uri("file:/D:/Scala-bootcamp/HT_for_me/Scala-bootcamp-HT/project/"), "scala-bootcamp-ht-build")...
 [warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
 [warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
