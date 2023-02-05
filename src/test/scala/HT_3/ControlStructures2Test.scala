@@ -85,7 +85,7 @@ class ControlStructures2Test extends AnyFreeSpec {
   }
 }
 
-class ControlStructuresHomework2HiddenTest extends AnyFreeSpec {
+class ControlStructures2HiddenTest extends AnyFreeSpec {
   "parseCommand" - {
     "should return error for invalid amount of numbers in divide" - {
       "for input 'divide 4 5 3'" in {

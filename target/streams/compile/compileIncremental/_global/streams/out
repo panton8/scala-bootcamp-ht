@@ -1,6 +1,6 @@
 [debug] [zinc] IncrementalCompile -----------
 [debug] IncrementalCompile.incrementalCompile
-[debug] previous = Stamps for: 24 products, 4 sources, 1 libraries
-[debug] current source = Set(${BASE}/src/main/scala/HT_1/GCD.scala, ${BASE}/src/main/scala/HT_1/LCM.scala, ${BASE}/src/main/scala/HT_2/ControlStructures1.scala, ${BASE}/src/main/scala/HT_3/ControlStructures2.scala)
+[debug] previous = Stamps for: 26 products, 5 sources, 1 libraries
+[debug] current source = Set(${BASE}/src/main/scala/HT_4/DataStructures.scala, ${BASE}/src/main/scala/HT_1/GCD.scala, ${BASE}/src/main/scala/HT_2/ControlStructures1.scala, ${BASE}/src/main/scala/HT_3/ControlStructures2.scala, ${BASE}/src/main/scala/HT_1/LCM.scala)
 [debug] > initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())
 [debug] No changes

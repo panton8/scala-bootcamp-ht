@@ -70,7 +70,7 @@ class ControlStructures1Test extends AnyFreeSpec {
 
 }
 
-class ControlStructuresHomework1HiddenTest extends AnyFreeSpec {
+class ControlStructures1HiddenTest extends AnyFreeSpec {
 
   def isAdultTests(isAdult: Int => Either[Error, Boolean]) = {
     "should return boolean for valid input" - {
